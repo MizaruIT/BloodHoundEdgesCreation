@@ -15,7 +15,7 @@ A repository with different methods used for processing data during/post a penet
 
 ## 💻 Getting started <a name="getting-started"/>
 ### Installation
-To retrieve all the MIB files:
+To install the project
 ```sh 
 git clone https://github.com/MizaruIT/BloodHoundEdgesCreation
 cd BloodHoundEdgesCreation;
@@ -48,10 +48,10 @@ The project has the following structure.
 ## 👥 Contact <a name="contact"/>
 - Twitter: @MizaruIT (https://twitter.com/MizaruIT)
 - GitHub: @MizaruIT (https://github.com/MizaruIT)
-- Project Link: https://github.com/MizaruIT/MIBS
+- Project Link: https://github.com/MizaruIT/BloodHoundEdgesCreation
 
 
 ## 🤝 Contributing <a name="contributing"/>
 Contributions, issues, and feature requests are welcome!
 
-Feel free to send me messages to add new MIB files.
+Feel free to send me messages to add new BloodHound Edges.
