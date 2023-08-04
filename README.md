@@ -43,6 +43,7 @@ The project has the following structure.
 
   ## 🔭 ROADMAP <a name="roadmap"/>
 - [ ] Add others mode (some ideas, just need to add them)
+- [ ] Take into account domain name, and not only username when parsing NT + LM
 
 
 ## 👥 Contact <a name="contact"/>
