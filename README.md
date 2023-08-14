@@ -46,6 +46,7 @@ The project has the following structure.
 -   [ ] Parsing CME shares, and add the list of shares (ex: SMB $IP $PORT $WORKSTATION_NAME [+] ... //IP/SHARE) to an attribute shares (+ add/update the rights depending on the user used) | command : cme smb $RANGE --shares
 -   [ ] Parsing CME SMB Signing value (same as above) | command : cme smb $RANGE
 -   [ ] Parsing CME pwd policies (same as above) | command : cme smb $RANGE -u '$USER' -p '$PWD' --pass-pol
+-   [ ] Parsing results from my scanners / or from cme mode (command : cme smb $IP -u '' -p '' -M zerologon|petitpotam|nopac)
 - [x] Take into account domain name, and not only username when parsing NT + LM
 
 
